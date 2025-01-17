@@ -1,36 +1,49 @@
 {
-    "front_page": [
-      {
-        "Cowbell": "Floating in space",
-        "Red_scum" : "Message from Mars",
-        "Ping_pang": "No empathy"
-      }
-    ],
-    "fis_page":[
-      {
-        "header": "Floating in Space",
-        "header2": "Floating in Space: The Adventures of Dangerous Cowbell!",
-        "text1": "Greetings, cosmic adventurers! It's me, Dangerous Cowbell, your daring and fearless space explorer, floating through the infinite wonders of the cosmos!",
-        "text2": "Equipped with my trusty bell and boundless courage, I navigate through asteroid fields, dodge comets, and uncover the mysteries of the universe.",
-        "text3": "Join me on a gravity-defying journey as I share thrilling tales, incredible discoveries, and the secrets of deep space. Get ready to embark on an interstellar adventure with Dangerous Cowbell, where the excitement never ends!"
-      }
-    ],
-    "amfm_page": [
-      {
-        "header": "Message from Mars",
-        "header2": "A Message from Mars: Captain Red Scum Speaks!",
-        "text1": "Greetings, Earthlings! This is Captain Red Scum, your intergalactic hero reporting live from the surface of Mars! After braving cosmic storms and traversing treacherous terrains,",
-        "text2" : "I've uncovered astonishing secrets and out-of-this-world adventures to share with you.",
-        "text3": "Tune in for thrilling updates, incredible discoveries, and the heroic tales of my Martian mission. Strap in and get ready to explore the Red Planet like never before—only with Captain Cosmos!"
-      }
-    ],
-    "ne_page" : [
-      {
-        "header": "No empathy",
-        "header2": "A Message from Earth: Ping Pang Speaks!",
-        "text1": "Hello, friends! It’s me, Ping Pang, your adventurous bird from Earth,with an exciting update from my top-secret hideout!",
-        "text2": "While I might not actually be on Mars, I’ve discovered incredible secrets and stories about the Red Planet right here from my hidden base on Earth.",
-        "text3": "Join me as I share fascinating insights, decode mysterious messages, and take you on thrilling adventures inspired by Mars. Get ready to explore the cosmos with Ping Pang, your guide to the wonders of the universe from a secret place on Earth!"
-      }    
-    ]
-  }
+  "front_page": [
+    {
+      "id": 1,
+      "title": "Cowbell",
+      "description": "Floating in space"
+    },
+    {
+      "id": 2,
+      "title": "Red_scum",
+      "description": "Message from Mars"
+    },
+    {
+      "id": 3,
+      "title": "Ping_pang",
+      "description": "No empathy"
+    }
+  ],
+  "fis_page": [
+    {
+      "id": 1,
+      "header": "Floating in Space",
+      "header2": "Floating in Space: The Adventures of Dangerous Cowbell!",
+      "text1": "Greetings, cosmic adventurers! It's me, Dangerous Cowbell, your daring and fearless space explorer, floating through the infinite wonders of the cosmos!",
+      "text2": "Equipped with my trusty bell and boundless courage, I navigate through asteroid fields, dodge comets, and uncover the mysteries of the universe.",
+      "text3": "Join me on a gravity-defying journey as I share thrilling tales, incredible discoveries, and the secrets of deep space. Get ready to embark on an interstellar adventure with Dangerous Cowbell, where the excitement never ends!"
+    }
+  ],
+  "amfm_page": [
+    {
+      "id": 2,
+      "header": "Message from Mars",
+      "header2": "A Message from Mars: Captain Red Scum Speaks!",
+      "text1": "Greetings, Earthlings! This is Captain Red Scum, your intergalactic hero reporting live from the surface of Mars! After braving cosmic storms and traversing treacherous terrains,",
+      "text2": "I've uncovered astonishing secrets and out-of-this-world adventures to share with you.",
+      "text3": "Tune in for thrilling updates, incredible discoveries, and the heroic tales of my Martian mission. Strap in and get ready to explore the Red Planet like never before—only with Captain Cosmos!"
+    }
+  ],
+  "ne_page": [
+    {
+      "id": 3,
+      "header": "No empathy",
+      "header2": "A Message from Earth: Ping Pang Speaks!",
+      "text1": "Hello, friends! It’s me, Ping Pang, your adventurous bird from Earth,with an exciting update from my top-secret hideout!",
+      "text2": "While I might not actually be on Mars, I’ve discovered incredible secrets and stories about the Red Planet right here from my hidden base on Earth.",
+      "text3": "Join me as I share fascinating insights, decode mysterious messages, and take you on thrilling adventures inspired by Mars. Get ready to explore the cosmos with Ping Pang, your guide to the wonders of the universe from a secret place on Earth!"
+    }
+  ]
+}
